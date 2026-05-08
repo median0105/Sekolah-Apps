@@ -6,8 +6,8 @@ class YoutubeController extends GetxController {
   final isLoading = false.obs;
   final videos = <Map<String, dynamic>>[].obs;
 
-  final String apiKey = 'AIzaSyDe-puik133CJB-fJnvcAZzTdrxw2nx_FQ';
-  final String channelId = 'UCYk4LJI0Pr6RBDWowMm-KUw';
+  final String apiKey = 'AIzaSyBy_3SqnmnLMoxdOb960FfHN7efP67NxGA';
+  final String channelId = 'UC1dI4tO13ApuSX0QeX8pHng';
 
   @override
   void onInit() {
